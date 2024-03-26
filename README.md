@@ -31,10 +31,5 @@ Para executar os testes, siga estas etapas:
 1. Instale as dependências do projeto, incluindo as bibliotecas de teste, executando `npm install` ou `yarn install` no terminal, dentro do diretório do projeto.
 2. Execute os testes utilizando o comando `npm test` ou `yarn test`.
 
-## Submissão
+![image](https://github.com/unixlira/challenge-ddd-patterns/assets/22614594/249e9798-21ed-4c87-90ec-8bc7a9cf4dea)
 
-Após completar a implementação e garantir que todos os testes estejam passando, submeta seu projeto para avaliação. Certifique-se de incluir instruções claras no `README.md` sobre como configurar e executar os testes.
-
-## Boa Sorte!
-
-Este desafio é uma excelente oportunidade para demonstrar suas habilidades em TypeScript e testes unitários. Esperamos que você encontre esta tarefa tanto desafiadora quanto gratificante. Boa sorte!
